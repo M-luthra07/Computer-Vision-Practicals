@@ -14,7 +14,12 @@ Matplotlib
 
 ## 🚀 How to Run
 Clone the repository
-<pre> ```bash # Your bash commands here git clone https://github.com/your-username/computer-vision-lab.git cd computer-vision-lab pip install -r requirements.txt ``` </pre>
+<pre> ```bash
+# Your bash commands here git clone
+https://github.com/your-username/computer-vision-lab.git
+cd computer-vision-lab
+pip install -r requirements.txt 
+``` </pre>
 
 Run an experiment (example for Experiment 1):
 <pre> ```bash # python Experiment-01/read_image.py ``` </pre>
@@ -25,5 +30,5 @@ Hands-on with image enhancement techniques like histogram equalization.
 Knowledge of spatial filters for noise reduction and edge detection.
 Strong foundation in digital image processing for Computer Vision applications.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Manya Luthra (Student, NCU)
