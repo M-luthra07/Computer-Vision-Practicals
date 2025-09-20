@@ -21,8 +21,9 @@ University: The NorthCap University
 | 3 | To understand mathematical & logical operations on images & visualize the output | CO1 | 22/08/25 |
 | 4 | To understand the point operations that can be performed on an image | CO1 | 29/08/25 |
 | 5 | To perform histogram equalization and histogram matching | CO2 | 05/09/25 |
-| 6 | To apply Box, Median, Max, Min & Weighted Average filters on an image | CO2 | 11/09/25 |
-| 7 | To apply edge detection on images using Prewitt, Sobel & Roberts operators | CO2 | 19/09/25 |
+| 6 | To apply edge detection on images using Prewitt, Sobel & Roberts operators | CO2 | 19/09/25 |
+| 7 |  To apply Box, Median, Max, Min & Weighted Average filters on an image | CO2 | 11/09/25 |
+
 
 ---
 
