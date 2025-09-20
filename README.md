@@ -14,16 +14,10 @@ Matplotlib
 
 ## 🚀 How to Run
 Clone the repository
-git clone https://github.com/your-username/computer-vision-lab.git
-cd computer-vision-lab
-
-
-Install required dependencies
-pip install -r requirements.txt
-
+<pre> ```bash # Your bash commands here git clone https://github.com/your-username/computer-vision-lab.git cd computer-vision-lab pip install -r requirements.txt ``` </pre>
 
 Run an experiment (example for Experiment 1):
-python Experiment-01/read_image.py
+<pre> ```bash # python Experiment-01/read_image.py ``` </pre>
 
 ## 🎯 Learning Outcomes
 Understanding of basic image representation and visualization.
